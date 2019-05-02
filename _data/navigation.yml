@@ -6,10 +6,5 @@
   url: /about
 - text: Services
   url: /services
-  subitems:
-    - text: Operations
-    - url: /operations
 - text: Contact
   url: /contact
-- text: Blog
-  url: /blog
