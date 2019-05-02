@@ -6,7 +6,7 @@
   url: /about
 - text: Services
   url: /services
-  sublinks:
+  subitems:
     - text: Operations
     - url: /operations
 - text: Contact
