@@ -4,9 +4,9 @@ title: About
 permalink: /about
 section: about
 intro_paragraph: |-
-  Eric Steen is the owner of Steen Legal and Business Solutions, LLC.
-
   ![Eric Steen](/assets/img/uploads/zdqipkuv.jpeg)
+
+  Eric Steen is the owner of Steen Legal and Business Solutions, LLC.
 ---
 Eric started out his career as a network engineer for a Kansas City based IT consulting company. After working for a few years, he changed careers and became a lawyer focusing on intellectual property. As of 2019, Eric is licensed in Missouri, Kansas and the United States Patent and Trademark Office.
 
