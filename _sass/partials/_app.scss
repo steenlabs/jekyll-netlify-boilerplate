@@ -80,6 +80,9 @@ header > nav {
         }
         &[data-current="current page"] {
           // you can add an active nav item style here
+          border-bottom: 2px solid white;
+          }
+
         }
       }
       a:hover {
@@ -87,7 +90,6 @@ header > nav {
       }
     }
   }
-}
 
 // our main content wrapper, the width scales with font size
 main {
