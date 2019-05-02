@@ -4,6 +4,8 @@
   url: /
 - text: About
   url: /about
+- dropdown: Services
+  url: /services
 - text: Contact
   url: /contact
 - text: Blog
