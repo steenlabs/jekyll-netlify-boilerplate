@@ -68,9 +68,6 @@ kramdown:
 #  - _redirects
 #  - _headers
 
-backend:
-  name: github
-  repo: steenlabs/jekyll-netlify-boilerplate
 
 # Exclude from processing.
 # The following items will not be processed.
